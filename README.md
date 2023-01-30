@@ -1,4 +1,4 @@
-# ChatApp
+# 🗨️ ChatApp
 
 A simple real-time chat app built with React, Socket.IO, and Node.js.
 
