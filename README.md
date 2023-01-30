@@ -47,20 +47,21 @@ npm start
 5. Start the server on another terminal
 
 ```node
-cd .. 
+cd ..
 cd server
 npm start
 ```
 
 Open your browser to http://localhost:3000
- 
- ** You can also open browser to http://localhost:3000 on two tabs to communicate between two users ☝️ ! 
+
+\*\* You can also open browser to http://localhost:3000 on two tabs to communicate between two users ☝️ !
 
 **Technologies Used**
+
 - React
 - Socket.IO
 - Node.js
 - Express
 - React-Bootstrap
 
-Thanks and hope you can click the ⭐ ! 
+Thanks and hope you can click the ⭐ !
