@@ -50,7 +50,7 @@ npm start
 
 Open your browser to http://localhost:3000
  
- ** You can also open browser to http://localhost:3000 on two tabs to communicate between two users 
+ ** You can also open browser to http://localhost:3000 on two tabs to communicate between two users ☝️ ! 
 
 **Technologies Used**
 - React
