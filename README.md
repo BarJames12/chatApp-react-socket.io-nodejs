@@ -6,12 +6,19 @@ A simple real-time chat app built with React, Socket.IO, and Node.js.
 
 **https://barja-chatapp.netlify.app/**
 
-**Features:**
+**🎯 Features:**
 
 - Real-time messaging
 - User online status
 - Group chat rooms
 - Responsive
+
+## 💻 Requirements
+Before start, make sure you've met the following requirements:
+* You have Node.js installed;
+* You have NPM or YARN installed;
+* You have a code editor installed (e.g. Visual Studio Code).
+
 
 **Getting Started**
 
