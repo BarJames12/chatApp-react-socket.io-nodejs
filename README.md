@@ -40,9 +40,11 @@ npm install
 npm start
 ```
 
-4. Start the server
+5. Start the server on another terminal
 
 ```node
+cd .. 
+cd server
 npm start
 ```
 
