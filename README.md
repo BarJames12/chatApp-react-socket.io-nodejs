@@ -6,6 +6,10 @@ A simple real-time chat app built with React, Socket.IO, and Node.js.
 
 **https://barja-chatapp.netlify.app/**
 
+<p align="center">
+  <img width="600" height="310" src="https://user-images.githubusercontent.com/84085280/215469221-610b5d26-7326-4bf2-8699-61e94d6dba6e.gif">
+</p>
+
 **🎯 Features:**
 
 - Real-time messaging
