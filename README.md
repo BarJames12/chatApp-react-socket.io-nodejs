@@ -71,4 +71,4 @@ Open your browser to http://localhost:3000
 - Express
 - React-Bootstrap
 
-Thanks and hope you can click the ⭐ !
+**Thanks and hope you can click the ⭐ !**
