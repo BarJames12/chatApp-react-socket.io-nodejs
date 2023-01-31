@@ -33,7 +33,12 @@ git clone https://github.com/BarJames12/chatApp-react-socket.io-nodejs.git
 
 ```
 
-2. Go to the project working directory for each side (client & server):
+2a. Go to the project working directory
+```node
+cd chatApp-react-socket.io-nodejs
+```
+
+2b. After that go to each side folder (client & server):
 
 ```node
 cd client
