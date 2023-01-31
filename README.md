@@ -24,7 +24,7 @@ Before start, make sure you've met the following requirements:
 * You have a code editor installed (e.g. Visual Studio Code).
 
 
-**Getting Started**
+**Getting Started:**
 
 1. Clone the repository
 
@@ -70,7 +70,7 @@ npm start
 
 Open your browser to http://localhost:3000
 
-\*\* You can also open browser to http://localhost:3000 on two tabs to communicate between two users ☝️ !
+**You can also open browser to http://localhost:3000 on two tabs to communicate between two users ☝️ !
 
 **Technologies Used**
 
